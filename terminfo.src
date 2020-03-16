@@ -1,4 +1,4 @@
-minterm|STM32-LCD terminal,
+miniterm|STM32 LCD terminal,
 	am,
 	cols#30, lines#15, colors#8, pairs#64,
 	cr=^M,
